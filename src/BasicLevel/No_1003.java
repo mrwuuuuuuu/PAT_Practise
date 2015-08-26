@@ -2,6 +2,10 @@ package BasicLevel;
 
 import java.util.Scanner;
 
+/**http://www.patest.cn/contests/pat-b-practise/1003
+ * @author lenovo
+ *
+ */
 public class No_1003 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
