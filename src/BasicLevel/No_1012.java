@@ -3,6 +3,10 @@ package BasicLevel;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
+/**http://www.patest.cn/contests/pat-b-practise/1012
+ * @author lenovo
+ *
+ */
 public class No_1012 {
 	static int a1, a2, a3, a4, a5, count1,count2;
 
