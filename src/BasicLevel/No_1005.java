@@ -3,6 +3,10 @@ package BasicLevel;
 import java.util.LinkedList;
 import java.util.Scanner;
 
+/**http://www.patest.cn/contests/pat-b-practise/1005
+ * @author lenovo
+ *
+ */
 public class No_1005 {
 	public static LinkedList<String> sort(LinkedList<String> list){
 		boolean flag=true;
