@@ -2,6 +2,10 @@ package BasicLevel;
 
 import java.util.Scanner;
 
+/**http://www.patest.cn/contests/pat-b-practise/1008
+ * @author lenovo
+ *
+ */
 public class No_1008 {
 	public static void reverse(int[] arr,int l,int h){
 		for(;l<h;l++,h--){
