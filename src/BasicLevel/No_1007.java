@@ -2,6 +2,10 @@ package BasicLevel;
 
 import java.util.Scanner;
 
+/**http://www.patest.cn/contests/pat-b-practise/1007
+ * @author lenovo
+ *
+ */
 public class No_1007 {
 	 public static boolean isPrime(int a) {  
 	        boolean flag = true;  
