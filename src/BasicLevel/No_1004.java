@@ -2,6 +2,10 @@ package BasicLevel;
 
 import java.util.Scanner;
 
+/**http://www.patest.cn/contests/pat-b-practise/1004
+ * @author lenovo
+ *
+ */
 class Student{
 	
 	String name;
